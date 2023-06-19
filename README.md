@@ -7,8 +7,8 @@ Overpass(easy)
 
 sudo-agent(easy)
 
-serverfromhell
+serverfromhell(medium)
 
-tomghost
+tomghost(easy)
 
-vulnetEndgamr
+vulnetEndgame(medium)
