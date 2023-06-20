@@ -12,3 +12,5 @@ serverfromhell(medium)
 tomghost(easy)
 
 vulnetEndgame(medium)
+
+Internal(hard)
