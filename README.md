@@ -14,3 +14,5 @@ tomghost(easy)
 vulnetEndgame(medium)
 
 Internal(hard)
+
+misguid_ghosts(hard)
