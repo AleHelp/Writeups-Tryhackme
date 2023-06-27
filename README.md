@@ -16,3 +16,5 @@ vulnetEndgame(medium)
 Internal(hard)
 
 misguid_ghosts(hard)
+
+wonderland(hard)
