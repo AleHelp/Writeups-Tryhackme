@@ -100,7 +100,7 @@ output:
 	ResetPassword.vbs
 	get ResetPassword.vbs
 
-inside the vbs script there are other credentials, we can use them for kerberoasting, in order to retrieve the NTDS.DIT,SAM hashes and other credentials.
+inside the vbs script there are other credentials, we can use them in order to retrieve the NTDS.DIT,SAM hashes and other credentials.
 
 command:
 
