@@ -18,3 +18,5 @@ inside there are some writeups of differents difficulties
 [misguided_ghosts](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/misguided_ghosts.md)(hard)
 
 [wonderland](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/wonderland.md)(hard)
+
+[Vulnnet:Roasted](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/vulnnetroasted.md)(easy)
