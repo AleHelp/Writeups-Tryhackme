@@ -23,4 +23,4 @@ inside there are some writeups of differents difficulties
 
 [Relevant](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/relevant.md)(medium)
 
-[Weasel](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/weasel.md)
+[Weasel](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/weasel.md)(medium)
