@@ -22,3 +22,5 @@ inside there are some writeups of differents difficulties
 [Vulnnet:Roasted](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/vulnnetroasted.md)(easy)
 
 [Relevant](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/relevant.md)(medium)
+
+[Weasel](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/weasel.md)
