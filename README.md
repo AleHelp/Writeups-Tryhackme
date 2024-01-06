@@ -28,3 +28,5 @@ inside there are some writeups of differents difficulties
 [Ra](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Ra.md)(hard)
 
 [Crocc Crew](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Crocc-Crew/Crocc%20Crew.md)(insane)
+
+[Rocket](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Rocket/Rocket.md)(hard)
