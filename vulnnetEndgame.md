@@ -1,4 +1,4 @@
-VulnnetEndgame
+Vulnnet:Endgame
 
 First of all we add the ip address 10.10.2.42 to the /etc/hosts:
 
