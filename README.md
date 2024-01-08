@@ -1,5 +1,5 @@
 # Writeups-Tryhackme:
-_This repository contains various writeups of both Linux and Windows machines performed on the [Tryhackme](https://tryhackme.com/)_
+_This repository contains various writeups of both Linux and Windows machines (also Active Directory) performed on the [Tryhackme](https://tryhackme.com/)_
 
 ## Disclaimer:
 __Writeups are ordered from oldest to newest, most likely older ones may be incomplete or written with errors__
