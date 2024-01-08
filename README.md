@@ -12,7 +12,7 @@ __Writeups are ordered from oldest to newest, most likely older ones may be inco
 |     2     |        [Sudo-Agent](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/sudo-agent.md)       |   Linux  |       Easy       |
 |     3     |    [Serverfromhell](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/serverfromhell.md)   |   Linux  |       Easy       |
 |     4     |          [Tomghost](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/tomghost.md)         |   Linux  |       Easy       |
-|     5     |     [VulnetEndgame](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/vulnetEndgame.md)    |   Linux  |      Medium      |
+|     5     |     [Vulnnet:Endgame](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/vulnnetEndgame.md) |   Linux  |      Medium      |
 |     6     |          [Internal](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/internal.md)         |   Linux  |       Hard       |
 |     7     |  [Misguided_Ghosts](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/misguided_ghosts.md) |   Linux  |       Hard       |
 |     8     |        [Wonderland](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/wonderland.md)       |   Linux  |       Hard       |
