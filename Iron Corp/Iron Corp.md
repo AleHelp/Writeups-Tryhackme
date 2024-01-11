@@ -2,7 +2,9 @@
 
 ### Tyopology:
 
-_Windows_
+ _Windows_
+
+---
 
 The box itself says to add a domain name __"ironcorp.me"__ to __"/etc/hosts"__
 
