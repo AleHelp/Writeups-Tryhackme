@@ -1,8 +1,10 @@
 # Crocc Crew:
 
-## Typology:
+### Typology:
 
 + _Windows Active Directory_
+
+---
 
 We started by enumerating the ports:
 ```bash
