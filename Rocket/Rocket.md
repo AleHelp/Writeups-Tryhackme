@@ -1,8 +1,10 @@
 # Rocket
 
-## Typology:
+### Typology:
 
 _Linux_
+
+---
 
 We begin by enumerating the target ports:
 ```bash
