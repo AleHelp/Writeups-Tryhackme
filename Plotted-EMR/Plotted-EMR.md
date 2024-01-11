@@ -1,8 +1,9 @@
 # Plotted-EMR
 
 ### Typology:
-
 _Linux_
+
+---
 
 We started as usual by enumerating the target ports:
 ```bash
