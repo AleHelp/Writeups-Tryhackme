@@ -1,6 +1,6 @@
 # Iron Corp
 
-### Tyopology:
+### Typology:
 
  _Windows_
 
