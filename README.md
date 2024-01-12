@@ -24,3 +24,4 @@ __Writeups are ordered from oldest to newest, most likely older ones may be inco
 | 14        |        [Rocket](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Rocket/Rocket.md)        |   Linux  |       Hard       |
 | 15        | [Plotted-EMR](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Plotted-EMR/Plotted-EMR.md)|Linux     |       Hard       |
 | 16        | [Iron Corp](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Iron%20Corp/Iron%20Corp.md)  |Windows   |       Hard       |
+| 17        | [Plotted-LMS](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Plotted-LMS/Plotted-LMS.md)|Linux     |       Hard       |
