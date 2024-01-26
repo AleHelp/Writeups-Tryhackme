@@ -26,3 +26,4 @@ __Writeups are ordered from oldest to newest, most likely older ones may be inco
 | 16        | [Iron Corp](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Iron%20Corp/Iron%20Corp.md)  |Windows   |       Hard       |
 | 17        | [Plotted-LMS](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Plotted-LMS/Plotted-LMS.md)|Linux     |       Hard       |
 | 18        | [Plotted-TMS](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Plotted-TMS/Plotted-TMS.md)|Linux     |       Easy       |
+| 19        | [Year of the Jellyfish](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Year-of-the-jellyfish/Year-of-the-jellyfish.md)|Linux     |       Hard       |
