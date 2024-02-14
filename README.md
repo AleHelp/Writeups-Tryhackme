@@ -28,3 +28,5 @@ __Writeups are ordered from oldest to newest, most likely older ones may be inco
 | 18        | [Plotted-TMS](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Plotted-TMS/Plotted-TMS.md)|Linux     |       Easy       |
 | 19        | [Year of the Jellyfish](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Year-of-the-jellyfish/Year-of-the-jellyfish.md)|Linux     |       Hard       |
 | 20        | [DailyBugle](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/DailyBugle/DailyBugle.md)|Linux     |       Hard       |
+| 21        | [Reset](https://github.com/AleHelp/Writeups-Tryhackme/blob/main/Reset/reset.md)|Windows     |       Hard       |
+
